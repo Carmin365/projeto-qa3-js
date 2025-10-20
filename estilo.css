@@ -1,0 +1,34 @@
+body { 
+    font-family: Arial, sans-serif; 
+    background-color: violet; 
+}
+
+header { 
+    background-color: purple; 
+    color: white; 
+    padding: 20px; 
+    text-align: center; 
+}
+.container { 
+    width: 80%; 
+    margin: 30px auto; 
+}
+
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+}
+
+th, td { 
+    padding: 12px 15px; 
+    border-bottom: 1px solid #ddd; 
+    text-align: left; 
+}
+
+.status-high { 
+    background-color: #d4edda; 
+} 
+
+.status-low { 
+    background-color: #f8d7da; 
+}  
